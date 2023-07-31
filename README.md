@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 #### 📈 GitHub Stats
 <a href="https://github.com/Joaron4">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&theme=dracula&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&theme=dracula&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/Joaron4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaron4&show_icons=true&line_height=27&theme=dracula&count_private=true&alt="Joarons GitHub Stats"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaron4&show_icons=true&line_height=27&theme=dracula&bg_color=1d1f21&count_private=true&alt="Joarons GitHub Stats"  />
 </a>
