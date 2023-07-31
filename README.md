@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### ⚙️ Skills
-![Languages](https://img.shields.io/badge/Languages-fff?style=for-the-badge&logoColor=White)
+
 
 
 ![Language: Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +29,62 @@ Here are some ideas to get you started:
 
 ![Tool:Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E)
 ![!Tool:Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    body {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks</th>
+      <th>Other Tools</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language: Python">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Language: Java">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=45B1E8" alt="Language: Dart">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Language: Kotlin">
+        <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Language: SQL">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E" alt="Tool: Jupyter">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Tool: Git">
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+
 
 
 #### 📈 GitHub Stats
