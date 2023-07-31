@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### ⚙️ Skills
+<h1 align=center style="font-size:3.5vw"><span style="color:#ff585d">⚙️ Skills</span></h1>
+
+
 
 
   <table style="border-collapse: collapse; width: 100%; margin: 0;">
@@ -49,8 +51,8 @@ Here are some ideas to get you started:
   </table>
 
 
+<h1 align=center style="font-size:3.5vw"><span style="color:#ff585d">📈 GitHub Stats</span></h1>
 
-#### 📈 GitHub Stats
 <a href="https://github.com/Joaron4">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&theme=dracula&bg_color=1d1f21&langs_count=3" />
