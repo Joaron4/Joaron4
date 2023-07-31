@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 #### ⚙️ Skills
 
+
   <table style="border-collapse: collapse; width: 100%; margin: 0;">
     <tr>
       <th style="padding: 8px; text-align: left; border-bottom: 1px solid #ddd; font-weight: bold;">Languages</th>
@@ -36,8 +37,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Language: SQL" style="display: block; margin: 0 auto;">
       </td>
       <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E" alt="Tool: Jupyter" style="display: block; margin: 0 auto;">
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Tool: Git" style="display: block; margin: 0 auto;">
+        <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E" alt="Tool: Jupyter" style="display: block; margin: 0 auto; border-radius: 8px;">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Tool: Git" style="display: block; margin: 0 auto; border-radius: 8px;">
       </td>
     </tr>
   </table>
