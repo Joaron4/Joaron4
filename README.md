@@ -33,7 +33,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Language: SQL" style="display: block; margin: 0 auto;">
       </td>
       <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Language: Kotlin" style="display: block; margin: 0 auto;">
+        <img src="https://img.shields.io/badge/Flutter-0084A0?style=for-the-badge&logo=flutter&logoColor=white" alt="Language: Kotlin" style="display: block; margin: 0 auto;">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Language: SQL" style="display: block; margin: 0 auto;">
         <br>
         <img align="center" src="https://img.shields.io/badge/Django-57F287?style=for-the-badge&logo=django&logoColor=white" alt="Language: SQL" style="display: block; margin: 0 auto;">
