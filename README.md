@@ -43,6 +43,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Tool: Git" style="display: block; margin: 0 auto; border-radius: 8px;">
         <br>
         <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Tool: Git" style="display: block; margin: 0 auto; border-radius: 8px;">
+        <img src="https://img.shields.io/badge/PostgreSQL-331878?style=for-the-badge&logo=postgresql&logoColor=white" style="display: block; margin: 0 auto; border-radius: 8px;">
       </td>
     </tr>
   </table>
