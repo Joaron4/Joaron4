@@ -49,7 +49,8 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </table>
-
+<br>
+<br>
 
 <h1 align=left style="font-size:3.5vw"><span style="color:#ff585d">📈 GitHub Stats</span></h1>
 
