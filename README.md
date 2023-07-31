@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       <td style="padding: 8px;">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Language: Kotlin" style="display: block; margin: 0 auto;">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Language: SQL" style="display: block; margin: 0 auto;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=45B1E8" alt="Language: SQL" style="display: block; margin: 0 auto;">
+        <img src="https://img.shields.io/badge/Django?style=for-the-badge&logo=django&logoColor=white&color=45B1E8" alt="Language: SQL" style="display: block; margin: 0 auto;">
       </td>
       <td style="padding: 8px;">
         <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E" alt="Tool: Jupyter" style="display: block; margin: 0 auto; border-radius: 8px;">
