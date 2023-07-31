@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align=center style="font-size:3.5vw"><span style="color:#ff585d">⚙️ Skills</span></h1>
+<h1 align=left style="font-size:3.5vw"><span style="color:#ff585d">⚙️ Skills</span></h1>
 
 
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   </table>
 
 
-<h1 align=center style="font-size:3.5vw"><span style="color:#ff585d">📈 GitHub Stats</span></h1>
+<h1 align=left style="font-size:3.5vw"><span style="color:#ff585d">📈 GitHub Stats</span></h1>
 
 <a href="https://github.com/Joaron4">
   
