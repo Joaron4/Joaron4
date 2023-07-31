@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Language: Java" style="display: block; margin: 0 auto;">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=45B1E8" alt="Language: Dart" style="display: block; margin: 0 auto;">
         <br>
-       <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Language: Kotlin" style="display: block; margin: 0 auto;">
+       <img src="https://img.shields.io/badge/Kotlin-AD70A4?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Language: Kotlin" style="display: block; margin: 0 auto;">
         <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Language: SQL" style="display: block; margin: 0 auto;">
       </td>
       <td style="padding: 8px;">
