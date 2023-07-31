@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 #### 📈 GitHub Stats
 <a href="https://github.com/Joaron4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&title_color=ffffff&text_color=c9cacc&icon_color=2e7494&bg_color=1d1f21&langs_count=3&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&langs_count=3&theme=merko" />
 </a>
 
 <a href="https://github.com/Joaron4">
