@@ -1,5 +1,5 @@
 ### Hi there 👋
-I possess extensive expertise in diverse programming languages, including Python and Java, andvarious data science libraries, such as Pandas, Matplotlib,Seaborn, Keras, and Scikit-Learn. I have a thirst for knowledgeand inborn passion for discovery, I seek a dynamicopportunity as a Data Scientist. My unwavering motivation,creative thinking, made me start a career transition from alawyer to a datascientist are a testament to my unwaveringcommitment to knowlege. I am confident that my proficiencyand zeal will enable me to deliver exceptional results andmake a substantial contribution to your organization.
+I possess extensive expertise in diverse programming languages, including Python and Java, andvarious data science libraries, such as Pandas, Matplotlib,Seaborn, Keras, and Scikit-Learn. I have a thirst for knowledge and inborn passion for discovery, I seek a dynamic opportunity as a Data Scientist. My unwavering motivation,creative thinking, made me start a career transition from alawyer to a datascientist are a testament to my unwaveringcommitment to knowlege. I am confident that my proficiencyand zeal will enable me to deliver exceptional results andmake a substantial contribution to your organization.
 <!--
 **Joaron4/Joaron4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
