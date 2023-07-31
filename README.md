@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 
 
 #### 📈 GitHub Stats
-<a href="https://github.com/Joaron4/Joaron4">
+<a href="https://github.com/Joaron4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&title_color=ffffff&text_color=c9cacc&icon_color=2e7494&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/Joaron4/Joaron4">
+<a href="https://github.com/Joaron4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaron4&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2e7494&bg_color=1d1f21" alt="Chris's GitHub Stats" />
 </a>
