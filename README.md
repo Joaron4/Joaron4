@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-![Tool:Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E)
-![Tool:Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![!Tool:Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E)
+
+![!Tool:Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 #### 📈 GitHub Stats
