@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😃👋
 
 I possess extensive expertise in diverse programming languages, including Python and Java, and various data science libraries, such as Pandas, Matplotlib, Seaborn, Keras, and Scikit-Learn. I have a thirst for knowledge and an inborn passion for discovery. I seek a dynamic opportunity as a Data Scientist. My unwavering motivation and creative thinking made me start a career transition from a lawyer to a data scientist. These skills are a testament to my commitment to **knowledge**.
 
