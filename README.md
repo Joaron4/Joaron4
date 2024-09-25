@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <h1 align="left" style="font-size:3.5vw">📈 GitHub Stats</h1>
 
 <a href="https://github.com/Joaron4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=java,html,tex,jupyter%20notebook,css&theme=dracula&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaron4&hide=html,tex,jupyter%20notebook,css&theme=dracula&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/Joaron4">
